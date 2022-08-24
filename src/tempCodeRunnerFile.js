@@ -1,0 +1,1 @@
+showAlert("Dark mode has been enabled","suceess")
